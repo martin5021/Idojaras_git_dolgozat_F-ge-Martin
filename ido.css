@@ -96,3 +96,7 @@ dt{
 	float: right;
 	width: 5vw;
 }
+
+input:hover{
+	background-color: #808183;
+}
