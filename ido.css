@@ -85,3 +85,8 @@ h2{
 	color: #808183;
 	font-weight: bold;
 }
+
+dt{
+	color: #243f84;
+	text-decoration: underline;
+}
